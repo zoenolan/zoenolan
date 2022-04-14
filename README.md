@@ -1,14 +1,29 @@
 <h1 align="center">I'm Zoe</h1>
 <h3 align="center">A software engineering type</h3>
 
-- 📫 Reach me at **hello@zoenolan.org**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoenolan" height="30" width="40" /></a>
-<a href="https://twitter.com/zoe_nolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zoe_nolan" height="30" width="40" /></a>
-<a href="/http://zoenolan.org/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://zoenolan.org/feed/" height="30" width="40" /></a>
+<a href="mailto:hello@zoenolan.org" target="blank"><img align="center" src="images/contact/email.svg" alt="zoenolan" height="30" width="40" /></a>
+
+<a href="https://twitter.com/zoe_nolan" target="blank"><img align="center" src="images/contact/twitter.svg" alt="zoe_nolan" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/contact/linked.svg" alt="zoenolan" height="30" width="40" /></a>
+
+<a href="http://zoenolan.org/feed/" target="blank"><img align="center" src="images/contact/rss.svg" alt="http://zoenolan.org/feed/" height="30" width="40" /></a>
+
+<a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/contact/hackernews.svg" alt="https://news.ycombinator.com/user?id=zoenolan" height="30" width="40" /></a>
+" alt="https://news.ycombinator.com/user?id=zoenolan" height="30" width="40" /></a>
+
+<a href="https://pinboard.in/u:zoenolan" target="blank"><img align="center" src="images/contact/pinboard.svg" alt="https://pinboard.in/u:zoenolan" height="30" width="40" /></a>
+" alt="https://pinboard.in/u:zoenolan" height="30" width="40" /></a>
+
+<a href="https://angel.co/u/zoenolan" target="blank"><img align="center" src="images/contact/angellist.svg" alt="https://angel.co/u/zoenolan" height="30" width="40" /></a>
+" alt="https://angel.co/u/zoenolan" height="30" width="40" /></a>
+
+<a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/contact/gitlab.svg" alt="https://gitlab.com/zoenolan" height="30" width="40" /></a>
+" alt="https://gitlab.com/zoenolan" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
