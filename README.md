@@ -1,5 +1,4 @@
-<h1 align="center">I'm Zoe</h1>
-<h3 align="center">A software engineering type</h3>
+<h3 align="center">I'm Zoe. A software engineering type</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
