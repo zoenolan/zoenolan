@@ -1,5 +1,10 @@
 <h3 align="center">I'm Zoe. A software engineering type</h3>
 
+Software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud
+services, microservices, big data and Blockchain development. Proven ability to architect and build products,
+design and promote adoption of development processes, lead Scrum teams, build teams, and represent
+employers through public speaking and community involvement.
+
 <h4 align="left">Connect with me:</h4>
 <p align="left"> <a href="mailto:hello@zoenolan.org" target="blank"><img align="center" src="images/connect/email.svg" alt="zoenolan" height="40" width="40" /></a> <a href="https://twitter.com/zoe_nolan" target="blank"><img align="center" src="images/connect/twitter.svg" alt="zoe_nolan" height="40" width="40" /></a> <a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="zoenolan" height="40" width="40" /></a> <a href="https://zoenolan.org/" target="blank"><img align="center" src="images/connect/www.svg" alt="http://zoenolan.org/" height="40" width="40" /></a> <a href="https://zoenolan.org/feed/" target="blank"><img align="center" src="images/connect/rss.svg" alt="http://zoenolan.org/feed/" height="40" width="40" /></a> <a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="https://news.ycombinator.com/user?id=zoenolan" height="40" width="40" /></a> <a href="https://pinboard.in/u:zoenolan" target="blank"><img align="center" src="images/connect/pinboard.svg" alt="https://pinboard.in/u:zoenolan" height="40" width="40" /></a> <a href="https://angel.co/u/zoenolan" target="blank"><img align="center" src="images/connect/angellist.svg" alt="https://angel.co/u/zoenolan" height="40" width="40" /></a> <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="https://gitlab.com/zoenolan" height="40" width="40" /></a> </p>
 
