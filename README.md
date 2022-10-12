@@ -1,3 +1,5 @@
+I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms at Clearmatics, building web scale messaging platforms at Skype and development of real-time video encoders, GPU architecture, and game engines. 
+
 Some work I've been involved with:
 - [Expanded NFT](https://github.com/joinzien/expanded-nft) and [Scarce Editions](https://github.com/joinzien/scarce-editions) - NFT contracts for art.
 - [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard) and [Asset Token](https://github.com/clearmatics/asset-token) - Token standards and contracts.
