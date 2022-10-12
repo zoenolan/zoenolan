@@ -1,5 +1,3 @@
-I'm Zoe. A software engineering type
-
 Some work I've been involved with:
 - [Expanded NFT](https://github.com/joinzien/expanded-nft) and [Scarce Editions](https://github.com/joinzien/scarce-editions) - NFT contracts for art.
 - [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard) and [Asset Token](https://github.com/clearmatics/asset-token) - Token standards and contracts.
