@@ -19,7 +19,7 @@ Some work I've been involved with:
 <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="https://gitlab.com/zoenolan" height="40" width="40" /></a> 
 </p>
 
-<table border="0">
+<table { border: 0px;}>
  <tr>
     <th><h4 align="left">Languages</h4></th>
     <th><h4 align="left">Tools</h4></th>
