@@ -21,8 +21,8 @@ Some work I've been involved with:
 
 <table border="0">
  <tr>
-    <th><h4>Languages</h4></th>
-    <th><h4>Tools</h4></th>
+    <th><h4 align="left">Languages</h4></th>
+    <th><h4 align="left">Tools</h4></th>
  </tr>
  <tr>
     <td>
