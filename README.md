@@ -6,7 +6,7 @@ Some work I've been involved with:
 - [Blockhooks](https://github.com/EthereumWebhooks/blockhooks) - Webhooks from Ethereum events.
 - [Raycasting Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planet Generation](https://github.com/zoenolan/FractalPlanetGeneration) - Procedural modeling of landscapes and planets.
 
-<h4 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me</h3>
 <p align="left">
 <a href="mailto:hello@zoenolan.org" target="blank"><img align="center" src="images/connect/email.svg" alt="zoenolan" height="40" width="40" /></a>
 <a href="https://mastodon.social/@zoenolan" target="blank"><img align="center" src="images/connect/mastodon.svg" alt="zoenolan@mastodon.social" height="40" width="40" /></a>
@@ -16,9 +16,10 @@ Some work I've been involved with:
 <a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="https://news.ycombinator.com/user?id=zoenolan" height="40" width="40" /></a>
 <a href="https://pinboard.in/u:zoenolan" target="blank"><img align="center" src="images/connect/pinboard.svg" alt="https://pinboard.in/u:zoenolan" height="40" width="40" /></a>
 <a href="https://angel.co/u/zoenolan" target="blank"><img align="center" src="images/connect/angellist.svg" alt="https://angel.co/u/zoenolan" height="40" width="40" /></a> 
-<a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="https://gitlab.com/zoenolan" height="40" width="40" /></a> </p>
+<a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="https://gitlab.com/zoenolan" height="40" width="40" /></a> 
+</p>
 
-<h4 align="left">Languages:</h4>
+<h4 align="left">Languages and Tools</h4>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JS" width="40" height="40"/></a> 
@@ -28,10 +29,7 @@ Some work I've been involved with:
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="arduino" width="40" height="40"/></a>   
-</p>
-
-<h4 align="left">Tools:</h4>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="arduino" width="40" height="40"/></a>    
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/tools/git.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="images/tools/linux.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="images/tools/bash.svg" alt="bash" width="40" height="40"/></a> 
