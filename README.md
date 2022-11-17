@@ -19,28 +19,23 @@ Some work I've been involved with:
 <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="https://gitlab.com/zoenolan" height="40" width="40" /></a> 
 </p>
 
-<table { border: 0px;}>
- <tr>
-    <th><h4 align="left">Languages</h4>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="python" width="40" height="40"/></a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JS" width="40" height="40"/></a> 
-        <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="go" width="40" height="40"/></a> 
-        <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="solidity" width="40" height="40"/></a> 
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="images/tools/c-original.svg" alt="C" width="40" height="40"/></a> 
-        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="pandas" width="40" height="40"/></a>
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="arduino" width="40" height="40"/></a>    
-    </th>
-    <th><h4 align="left">Tools</h4>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/tools/git.svg" alt="git" width="40" height="40"/></a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="images/tools/linux.svg" alt="linux" width="40" height="40"/></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="images/tools/bash.svg" alt="bash" width="40" height="40"/></a> 
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/tools/docker.svg" alt="docker" width="40" height="40"/></a> 
-        <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/tools/kubernetes.svg" alt="kubernetes" width="40" height="40"/></a> 
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="aws" width="40" height="40"/></a>
-        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="gcp" width="40" height="40"/></a> 
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="images/tools/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/></a> 
-    </th>
- </tr>
-</table>
+<h4 align="left">Languages and Tools</h4>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JS" width="40" height="40"/></a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="go" width="40" height="40"/></a> 
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="solidity" width="40" height="40"/></a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="images/tools/c-original.svg" alt="C" width="40" height="40"/></a> 
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="arduino" width="40" height="40"/></a>    
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/tools/git.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="images/tools/linux.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="images/tools/bash.svg" alt="bash" width="40" height="40"/></a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/tools/docker.svg" alt="docker" width="40" height="40"/></a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/tools/kubernetes.svg" alt="kubernetes" width="40" height="40"/></a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="gcp" width="40" height="40"/></a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="images/tools/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/></a> 
+</p>
