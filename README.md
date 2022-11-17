@@ -16,13 +16,13 @@ Some work I've been involved with:
 <a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="https://news.ycombinator.com/user?id=zoenolan" height="40" width="40" /></a>
 <a href="https://pinboard.in/u:zoenolan" target="blank"><img align="center" src="images/connect/pinboard.svg" alt="https://pinboard.in/u:zoenolan" height="40" width="40" /></a>
 <a href="https://angel.co/u/zoenolan" target="blank"><img align="center" src="images/connect/angellist.svg" alt="https://angel.co/u/zoenolan" height="40" width="40" /></a> 
-<a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="https://gitlab.com/zoenolan" height="40" width="40" /></a> </p>
-
+<a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="https://gitlab.com/zoenolan" height="40" width="40" /></a> 
+</p>
 
 <table border="0">
  <tr>
-    <td><h4>Languages</h4></td>
-    <td><h4>Tools</h4></td>
+    <th><h4>Languages</h4></th>
+    <th><h4>Tools</h4></th>
  </tr>
  <tr>
     <td>
