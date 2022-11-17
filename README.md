@@ -21,12 +21,11 @@ Some work I've been involved with:
 
 <table border="0">
  <tr>
-    <td><h4 align="left">Languages</h4></td>
-    <td><h4 align="left">Tools</h4></td>
+    <td><h4>Languages</h4></td>
+    <td><h4>Tools</h4></td>
  </tr>
  <tr>
     <td>
-    <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="python" width="40" height="40"/></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JS" width="40" height="40"/></a> 
     <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="go" width="40" height="40"/></a> 
@@ -36,10 +35,8 @@ Some work I've been involved with:
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="pandas" width="40" height="40"/></a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="arduino" width="40" height="40"/></a>   
-    </p>
     </td>
     <td>
-    <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/tools/git.svg" alt="git" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="images/tools/linux.svg" alt="linux" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="images/tools/bash.svg" alt="bash" width="40" height="40"/></a> 
@@ -48,7 +45,6 @@ Some work I've been involved with:
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="aws" width="40" height="40"/></a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="gcp" width="40" height="40"/></a> 
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="images/tools/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/></a> 
-    </p>
     </td>
  </tr>
 </table>
