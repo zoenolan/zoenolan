@@ -10,7 +10,8 @@ Some work I've been involved with:
 <p align="left">
 <a href="mailto:hello@zoenolan.org" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
 <a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Mastodon" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="linkedIn" height="40" width="40" /></a> 
+<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="linkedIn" height="40" width="40" /></a>
+<a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
 <a href="https://angel.co/u/zoenolan" target="blank"><img align="center" src="images/connect/angellist.svg" alt="Angellist" height="40" width="40" /></a> 
 <a href="https://zoenolan.org/" target="blank"><img align="center" src="images/connect/www.svg" alt="Website" height="40" width="40" /></a>
 <a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="Hacker News" height="40" width="40" /></a>
