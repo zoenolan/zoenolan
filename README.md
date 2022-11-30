@@ -24,6 +24,7 @@ Some work I've been involved with:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="Go" width="40" height="40"/></a> 
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="Solidity" width="40" height="40"/></a> 
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="images/tools/c-original.svg" alt="C" width="40" height="40"/></a> 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
