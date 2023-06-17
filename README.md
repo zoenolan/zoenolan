@@ -9,13 +9,15 @@ Some work I've been involved with:
 <h4 align="left">Connect with me</h3>
 <p align="left">
 <a href="mailto:hello@zoenolan.org" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
-<a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Mastodon" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="linkedIn" height="40" width="40" /></a>
-<a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
-<a href="https://wellfound.com/u/zoenolan" target="blank"><img align="center" src="images/connect/angellist.svg" alt="Angellist" height="40" width="40" /></a> 
 <a href="https://zoenolan.org/" target="blank"><img align="center" src="images/connect/www.svg" alt="Website" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Mastodon" height="40" width="40" /></a>
+<a href="https://twitter.com/zoe_nolan" target="blank"><img align="center" src="images/connect/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/zoenolan" target="blank"><img align="center" src="images/connect/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
+<a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
 <a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="Hacker News" height="40" width="40" /></a>
 <a href="https://pinboard.in/u:zoenolan" target="blank"><img align="center" src="images/connect/pinboard.svg" alt="Pinbroad" height="40" width="40" /></a>
+<a href="https://wellfound.com/u/zoenolan" target="blank"><img align="center" src="images/connect/angellist.svg" alt="Angellist" height="40" width="40" /></a> 
 <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="Gitlab" height="40" width="40" /></a> 
 </p>
 
