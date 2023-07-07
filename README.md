@@ -1,10 +1,10 @@
 I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms at [Clearmatics](https://www.clearmatics.com/), building web-scale messaging platforms at [Skype](https://www.skype.com/) and development of real-time video encoders, GPU architecture, and game engines. 
 
 Some work I've been involved with:
-- [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions) - NFT contracts for art.
-- [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard) and [Asset Token](https://github.com/clearmatics/asset-token) - Token standards and contracts.
-- [Blockhooks](https://github.com/EthereumWebhooks/blockhooks) - Webhooks from Ethereum events.
-- [Raycasting Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planet Generation](https://github.com/zoenolan/FractalPlanetGeneration) - Procedural modeling of landscapes and planets.
+- NFT contracts for art - [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions).
+- Token standards and contracts - [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard) and [Asset Token](https://github.com/clearmatics/asset-token).
+- Webhooks from Ethereum events - [Blockhooks](https://github.com/EthereumWebhooks/blockhooks).
+- Procedural modeling of landscapes and planets - [Raycasting Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planet Generation](https://github.com/zoenolan/FractalPlanetGeneration).
 
 <h4 align="left">Connect with me</h3>
 <p align="left">
