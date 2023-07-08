@@ -2,7 +2,7 @@ I am a software engineering leader with over 15 years of diverse experience rang
 
 Some work I've been involved with:
 - NFT contracts for art - [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions).
-- Token standards and contracts - [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard) and [Asset Token](https://github.com/clearmatics/asset-token).
+- Token standards and contracts - [Asset Token](https://github.com/clearmatics/asset-token) and [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard).
 - Webhooks from Ethereum events - [Blockhooks](https://github.com/EthereumWebhooks/blockhooks).
 - Procedural modeling of landscapes and planets - [Raycasting Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planet Generation](https://github.com/zoenolan/FractalPlanetGeneration).
 
