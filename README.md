@@ -48,5 +48,6 @@ Some work I've been involved with:
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="images/tools/bash.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="Pandas" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="Arduino" width="40" height="40"/></a>    
+<a href="https://processing.org/" target="_blank" rel="noreferrer"><img src="images/tools/processing.svg" alt="Processing" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="Arduino" width="40" height="40"/></a>   
 </p>
