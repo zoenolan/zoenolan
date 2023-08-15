@@ -41,6 +41,7 @@ Some work I've been involved with:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/tools/git.svg" alt="git" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="images/tools/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/></a> 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="images/tools/jira.svg" alt="Jira" width="40" height="40"/></a>
+<a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="images/tools/trello.svg" alt="Trello" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/tools/docker.svg" alt="Docker" width="40" height="40"/></a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/tools/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="AWS" width="40" height="40"/></a>
