@@ -44,6 +44,7 @@ Some work I've been involved with:
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="images/tools/trello.svg" alt="Trello" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="Pandas" width="40" height="40"/></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="images/tools/hardhat.svg" alt="hardhat" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/tools/docker.svg" alt="Docker" width="40" height="40"/></a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/tools/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="AWS" width="40" height="40"/></a>
