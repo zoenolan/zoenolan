@@ -12,7 +12,9 @@ Some work I've been involved with:
 <a href="mailto:hello@zoenolan.org" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
 <a href="https://zoenolan.org/" target="blank"><img align="center" src="images/connect/www.svg" alt="Website" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Mastodon" height="40" width="40" /></a>
+<a href="https://bsky.app/profile/zoenolan.bsky.social" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Mastodon" height="40" width="40" /></a>
+<a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Bluesky" height="40" width="40" /></a>
+<a href="https://twitter.com/zoe_nolan" target="blank" rel="me"><img align="center" src="images/connect/twitter.svg" alt="Twitter" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/zoenolan" target="blank"><img align="center" src="images/connect/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
 <a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
 <a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="Hacker News" height="40" width="40" /></a>
