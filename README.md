@@ -25,7 +25,6 @@ Some work I've been involved with:
 <h4 align="left">Languages</h4>
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="Go" width="40" height="40"/></a> 
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="Solidity" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="images/tools/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="Python" width="40" height="40"/></a> 
@@ -45,13 +44,10 @@ Some work I've been involved with:
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="images/tools/jira.svg" alt="Jira" width="40" height="40"/></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="images/tools/trello.svg" alt="Trello" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="images/tools/hardhat.svg" alt="hardhat" width="40" height="40"/></a>
-<a href="https://www.openzeppelin.com/" target="_blank" rel="noreferrer"><img src="images/tools/openzeppelin.svg" alt="OpenZeppelin" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/tools/docker.svg" alt="Docker" width="40" height="40"/></a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/tools/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="GCP" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="Pandas" width="40" height="40"/></a>
 <a href="https://www.twilio.com/" target="_blank" rel="noreferrer"><img src="images/tools/twilio.svg" alt="Twilio" width="40" height="40"/></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="images/tools/bash.svg" alt="bash" width="40" height="40"/></a>  
 </p>
