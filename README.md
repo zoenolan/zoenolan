@@ -45,6 +45,7 @@ Some work I've been involved with:
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/tools/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="GCP" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="images/tools/azure.svg" alt="Azure" width="40" height="40"/></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="images/tools/jira.svg" alt="Jira" width="40" height="40"/></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="images/tools/trello.svg" alt="Trello" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
