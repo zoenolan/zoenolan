@@ -30,6 +30,7 @@ Some work I've been involved with:
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="images/tools/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="images/tools/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="images/tools/java.svg" alt="Java" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="images/tools/c-original.svg" alt="C" width="40" height="40"/></a> 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
