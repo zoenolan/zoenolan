@@ -15,18 +15,18 @@ Some work I've been involved with:
 <a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Bluesky" height="40" width="40" /></a>
 <a href="https://bsky.app/profile/zoenolan.bsky.social" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Mastodon" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/zoenolan" target="blank"><img align="center" src="images/connect/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
-<a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
 <a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="Hacker News" height="40" width="40" /></a>
 <a href="https://pinboard.in/u:zoenolan" target="blank"><img align="center" src="images/connect/pinboard.svg" alt="Pinbroad" height="40" width="40" /></a>
-<a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="Gitlab" height="40" width="40" /></a> 
+<a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="Gitlab" height="40" width="40" /></a>
+<a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
 </p>
 
 <h4 align="left">Languages</h4>
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="Go" width="40" height="40"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="Python" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="images/tools/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="Python" width="40" height="40"/></a> 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="images/tools/Rlogo.svg" alt="R" width="40" height="40"/></a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="images/tools/lua.svg" alt="Lua" width="40" height="40"/></a>
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="images/tools/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>  
