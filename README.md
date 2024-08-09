@@ -1,4 +1,4 @@
-I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms at [Clearmatics](https://www.clearmatics.com/), building web-scale messaging platforms at [Skype](https://www.skype.com/) and development of real-time video encoders, GPU architecture, and game engines. 
+I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms, building web-scale messaging platforms and development of real-time video encoders, GPU architecture, and game engines. 
 
 Some work I've been involved with:
 - Chatbots - [Rules-based](https://github.com/zoenolan/chatbot), [Hybrid LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot)
