@@ -1,4 +1,4 @@
-I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms at [Clearmatics](https://www.clearmatics.com/), building web-scale messaging platforms at [Skype](https://www.skype.com/) and development of real-time video encoders, GPU architecture, and game engines. 
+I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms, building web-scale messaging platforms and development of real-time video encoders, GPU architecture, and game engines. 
 
 Some work I've been involved with:
 - Chatbots - [Rules-based](https://github.com/zoenolan/chatbot), [Hybrid LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot)
@@ -30,6 +30,7 @@ Some work I've been involved with:
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="images/tools/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="images/tools/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="images/tools/java.svg" alt="Java" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="images/tools/c-original.svg" alt="C" width="40" height="40"/></a> 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
@@ -45,8 +46,10 @@ Some work I've been involved with:
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="images/tools/kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="GCP" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="images/tools/azure.svg" alt="Azure" width="40" height="40"/></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="images/tools/jira.svg" alt="Jira" width="40" height="40"/></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="images/tools/trello.svg" alt="Trello" width="40" height="40"/></a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="images/tools/android.svg" alt="Android" width="40" height="40"/></a> 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://www.twilio.com/" target="_blank" rel="noreferrer"><img src="images/tools/twilio.svg" alt="Twilio" width="40" height="40"/></a>  
 </p>
