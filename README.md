@@ -1,7 +1,7 @@
 I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms, building web-scale messaging platforms and development of real-time video encoders, GPU architecture, and game engines. 
 
 Some work I've been involved with:
-- Chatbots - [Rules-based](https://github.com/zoenolan/chatbot), [Hybrid LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot)
+- Chatbots - [Rules-based](https://github.com/zoenolan/chatbot), [Hybrid LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot), [Stateful](https://github.com/zoenolan/stateful-chatbot) and [with API access to the wider world](https://github.com/zoenolan/api-chatbot).
 - NFT contracts for art - [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions).
 - Token standards and contracts - [Asset Token](https://github.com/clearmatics/asset-token) and [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard).
 - Webhooks from Ethereum events - [Blockhooks](https://github.com/EthereumWebhooks/blockhooks).
