@@ -51,6 +51,7 @@ Some work I've been involved with:
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="Pandas" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="images/tools/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="images/tools/bash.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="images/tools/sql.svg" alt="SQL" width="40" height="40"/></a> 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>  
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="images/tools/jira.svg" alt="Jira" width="40" height="40"/></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="images/tools/matlab.png" alt="Mathlab" width="40" height="40"/></a>   
