@@ -22,7 +22,7 @@ Some work I've been involved with:
 <a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
 </p>
 
-<h4 align="left">Languages</h4>
+<h4 align="left">Languages and Tools</h4>
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="Go" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="Python" width="40" height="40"/></a> 
@@ -36,10 +36,6 @@ Some work I've been involved with:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="images/tools/c-original.svg" alt="C" width="40" height="40"/></a> 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
-</p>
-
-<h4 align="left">Tools</h4>
-<p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="images/tools/linux.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/tools/git.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/tools/docker.svg" alt="Docker" width="40" height="40"/></a> 
