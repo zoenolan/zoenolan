@@ -2,9 +2,9 @@ I am a software engineering leader with over 15 years of diverse experience rang
 
 Connect with me
 <p align="left">
+<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Bluesky" height="40" width="40" /></a>
 <a href="https://bsky.app/profile/zoenolan.bsky.social" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Mastodon" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://levelheaded.io/" target="blank"><img align="center" src="images/connect/www.svg" alt="Website" height="40" width="40" /></a>
 <a href="mailto:zoe.nolan@levelheaded.io" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/zoenolan" target="blank"><img align="center" src="images/connect/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
@@ -22,7 +22,7 @@ Some work I've been involved with:
 - Webhooks from Ethereum events - [Blockhooks](https://github.com/EthereumWebhooks/blockhooks).
 - Procedural modelling of landscapes and planets - [Raycasting Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planet Generation](https://github.com/zoenolan/FractalPlanetGeneration).
 
-<h4 align="left">Languages and Tools</h4>
+Languages and Tools
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="Go" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="Python" width="40" height="40"/></a> 
