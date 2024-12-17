@@ -1,26 +1,26 @@
-I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and Blockchain development. My prior work includes wholesale banking settlement platforms, building web-scale messaging platforms and development of real-time video encoders, GPU architecture, and game engines. 
+I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and blockchain development. My prior work includes wholesale banking settlement platforms, building web-scale messaging platforms and development of real-time video encoders, GPU architecture, and game engines. 
 
-Some work I've been involved with:
-- Chatbots - [Rules-based](https://github.com/zoenolan/chatbot), [Hybrid LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot), [Stateful](https://github.com/zoenolan/stateful-chatbot) and [with API access to the wider world](https://github.com/zoenolan/api-chatbot).
-- Summary tools - [Batch summary generator](https://github.com/zoenolan/batch-summary).
-- NFT contracts for art - [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions).
-- Token standards and contracts - [Asset Token](https://github.com/clearmatics/asset-token) and [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard).
-- Webhooks from Ethereum events - [Blockhooks](https://github.com/EthereumWebhooks/blockhooks).
-- Procedural modelling of landscapes and planets - [Raycasting Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planet Generation](https://github.com/zoenolan/FractalPlanetGeneration).
-
-<h4 align="left">Connect with me</h3>
+Connect with me
 <p align="left">
-<a href="mailto:zoe.nolan@levelheaded.io" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
-<a href="https://levelheaded.io/" target="blank"><img align="center" src="images/connect/www.svg" alt="Website" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Bluesky" height="40" width="40" /></a>
 <a href="https://bsky.app/profile/zoenolan.bsky.social" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Mastodon" height="40" width="40" /></a>
-<a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="Hacker News" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://levelheaded.io/" target="blank"><img align="center" src="images/connect/www.svg" alt="Website" height="40" width="40" /></a>
+<a href="mailto:zoe.nolan@levelheaded.io" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/zoenolan" target="blank"><img align="center" src="images/connect/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
+<a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="Hacker News" height="40" width="40" /></a>
 <a href="https://pinboard.in/u:zoenolan" target="blank"><img align="center" src="images/connect/pinboard.svg" alt="Pinbroad" height="40" width="40" /></a>
 <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="Gitlab" height="40" width="40" /></a>
 <a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
 </p>
+
+Some work I've been involved with:
+- Chatbots - [Rules-based](https://github.com/zoenolan/chatbot), [combined LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot), [with long term memory](https://github.com/zoenolan/stateful-chatbot) and [as an agent with API access to the wider world](https://github.com/zoenolan/api-chatbot).
+- LLM based tools - [Batch summary generator](https://github.com/zoenolan/batch-summary).
+- NFT contracts for art - [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions).
+- Token standards and contracts - [Asset Token](https://github.com/clearmatics/asset-token) and [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard).
+- Webhooks from Ethereum events - [Blockhooks](https://github.com/EthereumWebhooks/blockhooks).
+- Procedural modelling of landscapes and planets - [Raycasting Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planet Generation](https://github.com/zoenolan/FractalPlanetGeneration).
 
 <h4 align="left">Languages and Tools</h4>
 <p align="left">
