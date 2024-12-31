@@ -11,7 +11,6 @@ Connect with me
 <a href="https://news.ycombinator.com/user?id=zoenolan" target="blank"><img align="center" src="images/connect/hackernews.svg" alt="Hacker News" height="40" width="40" /></a>
 <a href="https://pinboard.in/u:zoenolan" target="blank"><img align="center" src="images/connect/pinboard.svg" alt="Pinbroad" height="40" width="40" /></a>
 <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="Gitlab" height="40" width="40" /></a>
-<a href="https://www.polywork.com/zoenolan" target="blank"><img align="center" src="images/connect/polywork.svg" alt="polywork" height="40" width="40" /></a>  
 </p>
 
 Some work I've been involved with:
