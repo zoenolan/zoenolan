@@ -28,7 +28,8 @@ Languages and Tools
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="Go" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="Python" width="40" height="40"/></a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="images/tools/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="images/tools/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="images/tools/linux.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/tools/git.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="images/tools/docker.svg" alt="Docker" width="40" height="40"/></a> 
@@ -36,11 +37,14 @@ Languages and Tools
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="GCP" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="images/tools/azure.svg" alt="Azure" width="40" height="40"/></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="images/tools/jest.svg" alt="Jest" width="40" height="40"/></a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="images/tools/react.svg" alt="React" width="40" height="40"/></a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nextjs.svg" alt=Next.JS" width="40" height="40"/></a> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="images/tools/dot-net.svg" alt=".Net" width="40" height="40"/></a> 
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="Solidity" width="40" height="40"/></a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="images/tools/lua.svg" alt="Lua" width="40" height="40"/></a>
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="images/tools/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>  
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="images/tools/Rlogo.svg" alt="R" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="images/tools/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="images/tools/java.svg" alt="Java" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="images/tools/c-original.svg" alt="C" width="40" height="40"/></a> 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
