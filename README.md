@@ -12,6 +12,7 @@ Connect with me
 <a href="https://www.kaggle.com/zoenolan" target="blank"><img align="center" src="images/connect/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
 <a href="https://huggingface.co/zoenolan" target="blank"><img align="center" src="images/connect/hf-logo.svg" alt="Hugging Face" height="40" width="40" /></a>
 <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="Gitlab" height="40" width="40" /></a>
+<a href="https://codeberg.org/zoenolan" target="blank"><img align="center" src="images/connect/codeberg.svg" alt="Codeberg" height="40" width="40" /></a>
 </p>
 
 Some work I've been involved with:
