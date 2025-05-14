@@ -27,6 +27,7 @@ Languages and Tools
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/tools/go.svg" alt="Go" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/tools/python.svg" alt="Python" width="40" height="40"/></a> 
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="images/tools/rust-original.svg" alt="Rust" width="40" height="40"/></a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="images/tools/visualstudiocode.svg" alt="Visual Studio Code" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="images/tools/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="images/tools/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
