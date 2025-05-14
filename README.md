@@ -40,6 +40,7 @@ Languages and Tools
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nextjs.svg" alt=Next.JS" width="40" height="40"/></a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="images/tools/dot-net.svg" alt=".Net" width="40" height="40"/></a> 
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="Solidity" width="40" height="40"/></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="images/tools/hardhat-original.svg" alt="Hardhat" width="40" height="40"/></a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="images/tools/lua.svg" alt="Lua" width="40" height="40"/></a>
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="images/tools/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>  
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="images/tools/Rlogo.svg" alt="R" width="40" height="40"/></a>
