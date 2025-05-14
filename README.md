@@ -46,7 +46,8 @@ Languages and Tools
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="images/tools/Rlogo.svg" alt="R" width="40" height="40"/></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="images/tools/java.svg" alt="Java" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="images/tools/c-original.svg" alt="C" width="40" height="40"/></a> 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="images/tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="images/tools/opengl-original.svg" alt="OpenGL" width="40" height="40"/></a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="images/tools/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
 <a href="https://opentofu.org/" target="_blank" rel="noreferrer"><img src="images/tools/opentofu.svg" alt="OpenTofu" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="images/tools/pandas.svg" alt="Pandas" width="40" height="40"/></a>
