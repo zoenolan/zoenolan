@@ -58,5 +58,6 @@ Languages and Tools
 <a href="https://processing.org/" target="_blank" rel="noreferrer"><img src="images/tools/processing.svg" alt="Processing" width="40" height="40"/></a> 
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="images/tools/android.svg" alt="Android" width="40" height="40"/></a> 
 <a href="https://www.twilio.com/" target="_blank" rel="noreferrer"><img src="images/tools/twilio.svg" alt="Twilio" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="Arduino" width="40" height="40"/></a>   
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="images/tools/arduino.svg" alt="Arduino" width="40" height="40"/></a>  
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="images/tools/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/></a>   
 </p>
