@@ -16,9 +16,9 @@ Connect with me
 </p>
 
 Some work I've been involved with:
-AI and Data Science: [Batch summary generator](https://github.com/zoenolan/batch-summary). Chatbots [Rules-based](https://github.com/zoenolan/chatbot), [combined LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot), [with long term memory](https://github.com/zoenolan/stateful-chatbot) and [as an agent with API access to the wider world](https://github.com/zoenolan/api-chatbot). NFT contracts for art - [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions).
-Blockchain: [Webhooks from Ethereum events](https://github.com/EthereumWebhooks/blockhooks). [Asset Token](https://github.com/clearmatics/asset-token) and [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard).
-Computer Graphics: Fractal [Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planets](https://github.com/zoenolan/FractalPlanetGeneration). Raytracers in [C++](https://github.com/zoenolan/Raytracer) and [Rust](https://github.com/zoenolan/rust-raytracer).
+- AI and Data Science: [Batch summary generator](https://github.com/zoenolan/batch-summary). Chatbots [Rules-based](https://github.com/zoenolan/chatbot), [combined LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot), [with long term memory](https://github.com/zoenolan/stateful-chatbot) and [as an agent with API access to the wider world](https://github.com/zoenolan/api-chatbot). NFT contracts for art - [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions).
+- Blockchain: [Webhooks from Ethereum events](https://github.com/EthereumWebhooks/blockhooks). [Asset Token](https://github.com/clearmatics/asset-token) and [ERC223 Token Standard](https://github.com/Dexaran/ERC223-token-standard).
+- Computer Graphics: Fractal [Terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [Planets](https://github.com/zoenolan/FractalPlanetGeneration). Raytracers in [C++](https://github.com/zoenolan/Raytracer) and [Rust](https://github.com/zoenolan/rust-raytracer).
 
 Languages and Tools
 <p align="left">
