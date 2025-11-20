@@ -2,7 +2,7 @@ I am a software engineering leader with over 15 years of diverse experience rang
 
 Connect with me
 <p align="left">
-<a href="mailto:zoe.nolan@levelheaded.io" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
+<a href="mailto:hello@zoenolan.me" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Mastodon" height="40" width="40" /></a>
 <a href="https://bsky.app/profile/zoenolan.me" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Bluesky" height="40" width="40" /></a>
