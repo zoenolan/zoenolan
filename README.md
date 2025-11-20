@@ -5,7 +5,7 @@ Connect with me
 <a href="mailto:zoe.nolan@levelheaded.io" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Mastodon" height="40" width="40" /></a>
-<a href="https://bsky.app/profile/zoenolan.bsky.social" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Bluesky" height="40" width="40" /></a>
+<a href="[https://bsky.app/profile/zoenolan.bsky.social](https://bsky.app/profile/zoenolan.me)" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Bluesky" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/zoenolan" target="blank"><img align="center" src="images/connect/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
 <a href="https://huggingface.co/zoenolan" target="blank"><img align="center" src="images/connect/hf-logo.svg" alt="Hugging Face" height="40" width="40" /></a>
 <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="Gitlab" height="40" width="40" /></a>
