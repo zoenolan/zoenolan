@@ -1,11 +1,11 @@
-I am a software engineering leader with over 15 years of diverse experience ranging from low-level hardware to cloud services, microservices, big data and blockchain development. My prior work includes wholesale banking settlement platforms, building web-scale messaging platforms and development of real-time video encoders, GPU architecture, and game engines. 
+I am a software engineering leader with deep technical foundations (GPU architecture to planetary-scale systems) and extensive experience delivering regulated platforms across healthcare, finance, and blockchain. Combines distributed systems expertise with organisational leadership, team scaling, and compliance-heavy architecture design.
 
 Connect with me
 <p align="left">
-<a href="mailto:zoe.nolan@levelheaded.io" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
+<a href="mailto:hello@zoenolan.me" target="blank"><img align="center" src="images/connect/email.svg" alt=Email" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/zoenolan" target="blank"><img align="center" src="images/connect/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://mastodon.social/@zoenolan" target="blank" rel="me"><img align="center" src="images/connect/mastodon.svg" alt="Mastodon" height="40" width="40" /></a>
-<a href="https://bsky.app/profile/zoenolan.bsky.social" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Bluesky" height="40" width="40" /></a>
+<a href="https://bsky.app/profile/zoenolan.me" target="blank" rel="me"><img align="center" src="images/connect/bluesky.png" alt="Bluesky" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/zoenolan" target="blank"><img align="center" src="images/connect/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
 <a href="https://huggingface.co/zoenolan" target="blank"><img align="center" src="images/connect/hf-logo.svg" alt="Hugging Face" height="40" width="40" /></a>
 <a href="https://gitlab.com/zoenolan" target="blank"><img align="center" src="images/connect/gitlab.svg" alt="Gitlab" height="40" width="40" /></a>
@@ -16,8 +16,8 @@ Connect with me
 </p>
 
 Some work I've been involved with:
-- AI and Data Science: [Batch summary generator](https://github.com/zoenolan/batch-summary). Chatbots [rules-based](https://github.com/zoenolan/chatbot), [combined LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot), with [long term memory](https://github.com/zoenolan/stateful-chatbot) and as an [agent](https://github.com/zoenolan/api-chatbot) with API access to the wider world. 
 - Blockchain: [Webhooks from Ethereum](https://github.com/EthereumWebhooks/blockhooks) events. [Asset token](https://github.com/clearmatics/asset-token) and [ERC223](https://github.com/Dexaran/ERC223-token-standard) token standards. [Expanded NFT](https://github.com/joinzien/expanded-nft), [Open Editions](https://github.com/joinzien/open-editions) and [Scarce Editions](https://github.com/joinzien/scarce-editions) contracts for art.
+- AI and Data Science: [Batch summary generator](https://github.com/zoenolan/batch-summary). Chatbots [rules-based](https://github.com/zoenolan/rules-based-chatbot), [combined LLM and rules-based](https://github.com/zoenolan/hybrid-chatbot), with [long term memory](https://github.com/zoenolan/stateful-chatbot) and as an [agent](https://github.com/zoenolan/agentic-chatbot) with API access to the wider world. 
 - Computer Graphics: Fractal [terrain](https://github.com/zoenolan/RaycastingFractalTerrain) and [planets](https://github.com/zoenolan/FractalPlanetGeneration). Raytracers in [C++](https://github.com/zoenolan/Raytracer) and [Rust](https://github.com/zoenolan/rust-raytracer).
 
 Languages and Tools
