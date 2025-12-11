@@ -1,4 +1,4 @@
-I am a software engineering leader with deep technical foundations (GPU architecture to planetary-scale systems) and extensive experience delivering regulated platforms across healthcare, finance, and blockchain. Combines distributed systems expertise with organisational leadership, team scaling, and compliance-heavy architecture design.
+I am a software engineer with a deep technical foundations (GPU architecture to planetary-scale systems) and extensive experience delivering regulated platforms across healthcare, finance, and blockchain. Combines distributed systems expertise with organisational leadership, team scaling, and compliance-heavy architecture design.
 
 Connect with me
 <p align="left">
@@ -35,12 +35,12 @@ Languages and Tools
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="images/tools/aws.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="GCP" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="images/tools/azure.svg" alt="Azure" width="40" height="40"/></a>
+<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="Solidity" width="40" height="40"/></a>
+<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="images/tools/hardhat-original.svg" alt="Hardhat" width="40" height="40"/></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="images/tools/jest.svg" alt="Jest" width="40" height="40"/></a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="images/tools/react.svg" alt="React" width="40" height="40"/></a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="images/tools/nextjs.svg" alt=Next.JS" width="40" height="40"/></a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="images/tools/dot-net.svg" alt=".Net" width="40" height="40"/></a> 
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="Solidity" width="40" height="40"/></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="images/tools/hardhat-original.svg" alt="Hardhat" width="40" height="40"/></a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="images/tools/lua.svg" alt="Lua" width="40" height="40"/></a>
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="images/tools/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>  
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="images/tools/Rlogo.svg" alt="R" width="40" height="40"/></a>
