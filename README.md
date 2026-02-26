@@ -36,6 +36,7 @@ Languages and Tools
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="images/tools/gcp.svg" alt="GCP" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="images/tools/azure.svg" alt="Azure" width="40" height="40"/></a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="images/tools/solidity.svg" alt="Solidity" width="40" height="40"/></a>
+<a href="https://www.getfoundry.sh/" target="_blank" rel="noreferrer"><img src="images/tools/foundry-logo.png" alt="Foundry" width="40" height="40"/></a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="images/tools/hardhat-original.svg" alt="Hardhat" width="40" height="40"/></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="images/tools/jest.svg" alt="Jest" width="40" height="40"/></a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="images/tools/react.svg" alt="React" width="40" height="40"/></a> 
